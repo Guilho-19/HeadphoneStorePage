@@ -2,7 +2,7 @@
 
 <img src="print01.png" alt="exemplo imagem">
 
-> O projeto tem como principal funcionalidade demonstrar o domínio sobre funcionalidades de HTML, CSS e JavaScript para listar de maneira sucinta Pokémons.  
+> O projeto tem como principal funcionalidade demonstrar a aplicação na prática sobre funcionalidades de HTML, CSS e JavaScript para criar uma Store Page.
 
 O projeto já está Finalizado.
 
