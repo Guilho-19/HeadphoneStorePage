@@ -4,6 +4,10 @@
 
 > O projeto tem como principal funcionalidade demonstrar a aplicação na prática sobre funcionalidades de HTML, CSS e JavaScript para criar uma Store Page.
 
+É possível alternar entre os três produtos disponiveis para compra no site.
+
+<img src="print02.png" alt="print02">
+
 O projeto já está Finalizado.
 
 ## 💻 Pré-requisitos
