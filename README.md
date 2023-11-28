@@ -8,6 +8,8 @@
 
 <img src="print02.png" alt="print02">
 
+> Tambem foi adicionado hover animations ao realizar a mudança de um produto para outro.
+
 O projeto já está Finalizado.
 
 ## 💻 Pré-requisitos
