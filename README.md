@@ -1,6 +1,6 @@
-# HeadphoneStorePage
+# Headphone Store Page
 
-<img src="screen_01.png" alt="exemplo imagem">
+<img src="/print/print01.png" alt="exemplo imagem">
 
 > O projeto tem como principal funcionalidade demonstrar o domínio sobre funcionalidades de HTML, CSS e JavaScript para listar de maneira sucinta Pokémons.  
 
