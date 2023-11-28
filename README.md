@@ -1,6 +1,6 @@
 # Headphone Store Page
 
-<img src="print/print01.png" alt="print01">
+<img src="print01.png" alt="print01">
 
 > O projeto tem como principal funcionalidade demonstrar a aplicação na prática sobre funcionalidades de HTML, CSS e JavaScript para criar uma Store Page.
 
